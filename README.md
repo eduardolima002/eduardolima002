@@ -1,6 +1,3 @@
-### Ola! Eu sou Edu 
-
-
 ### Atualmente estou focado em aprender mais sobre:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width:90px ; height: 90px;"/>
